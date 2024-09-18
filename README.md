@@ -30,7 +30,7 @@ root
 │   └── audio2/                     # Dossier pour les fichiers audio en allemand\
 │── videos/\
 │   └── finale/                 # fichier où les vidéos générées seront enregistrées\
-│── classes/
+│── classes/\
 │   └── main.py                 # Script principal pour générer les vidéos\
 │   └── Audio.py                  # classe pour générer les voix off\
 │   └── Sprechen.py         # classe pour assembler les éléments en vidéo avec MoviePy\
